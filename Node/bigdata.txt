@@ -1,0 +1,494 @@
+lorem500
+
+
+
+13:26 / 45:16
+
+•
+Example - File System
+
+
+Node.js Tutorial Bangla | Express.js Tutorial Bangla Series for Beginners
+#6 - Node.js Stream & Buffer - Node.js Tutorial Bangla | Bangla Node js Tutorial
+
+Learn with Sumit - LWS - Bangladesh
+80.5K subscribers
+
+Subscribed
+
+
+929
+
+
+Share
+
+Download
+
+19,250 views  5 Nov 2020  Welcome to Learn with Sumit. In this video I have talked about Node Stream and Buffers. It is quite a hard topic to understand But makes it simpler for the beginners to understand easily. In this whole Bangla Node js series, I will be covering  Node.js, Express.js, MongoDB from scratch. I have also shown a Raw Node.js Project and a Complete Real-time Chat Application at the end of this playlist. Most importantly this Node.js Bangla tutorial series is absolutely beginner friendly. The only prerequisite is you must know JavaScript. If you have zero knowledge on JavaScript, you can check this recommended JS path - https://lwsbd.link/jspath. Also you will get the MERN Stack flavor in this whole series though we have a separate playlist on React. After completing this playlist you can check the React series here - https://lwsbd.link/react. So If you are a beginner and looking for a complete Bangla MERN stack tutorial you can carry on this playlist.
+
+✅  Complete Playlist Link: https://www.youtube.com/watch?v=WC-g0...
+
+✅  Github Repository Link: https://github.com/learnwithsumit/nod...
+
+▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬
+
+0:00 - Intro
+0:55 - What is Stream & Buffer
+4:21 - Example - Incoming Request
+8:39 - What is  Read Stream
+11:00 - Example - File System
+18:30 - Example - Incoming Request
+30:56 - Write Stream
+36:15 - What is Pipe
+44:23 - Outro
+
+References:
+
+✅  fs.createReadStream() doc - https://nodejs.org/api/fs.html#fs_fs_...
+✅  fs.createWriteStream() docs - https://nodejs.org/api/fs.html#fs_fs_...
+✅  Buffer Documentation: https://nodejs.org/api/buffer.html
+✅  How Node.js works : https://www.youtube.com/watch?v=qImH1...
+✅  Node.js Module System : https://www.youtube.com/watch?v=IFBeI...
+
+#nodejs #javascript #bangla_programming_tutorial
+Chapters
+
+View all
+Featured playlist
+
+35 videos
+Node.js Tutorial Bangla | Express.js Tutorial Bangla Series for Beginners
+Learn with Sumit - LWS - Bangladesh
+Comments
+132
+Munna MaHmud
+Add a comment…
+132 Comments
+Munna MaHmud
+Add a comment…
+Rubel Mia
+Pinned by Learn with Sumit - LWS - Bangladesh
+Rubel Mia
+1 year ago
+This is gonna be one of the best nodejs tutorial series on internet!
+
+33
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+2 REPLIES
+Fazle Chisty Himel
+Fazle Chisty Himel
+1 year ago
+I just want to thank you from my heart. You easily explain everything so easily. That much quality content usually we really don't find on the paid courses that are available on the internet. You're doing a lot for us. Thank you. God bless you.
+
+2
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+1 REPLY
+Ashfaqur Rahman
+Ashfaqur Rahman
+9 months ago
+Your tutorial is so well structured. Everything makes sense in the end!
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+Sakib Shahrier
+Sakib Shahrier
+1 year ago
+I was really worried about learning node. As web technologies are very new to me. But, after watching previous 5 videos I'm hopeful about nodejs. Please keep it up.
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+senior x
+senior x
+4 months ago
+Bhai best tutorial brother love from india.. Please make a sql series... I searched internet node js but your videos are raw videos.. Concept clearning code not only copy pasting.. Thanks for that kind of videos.. I learned a lot
+
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+Jabed Hossain
+Jabed Hossain
+1 year ago
+আপনার সাথে আছি । আপনাকে অসংখ্য ধন্যবাদ বাংলা ভাষায় এত সুন্দর ভিডিও দেওয়ার জন্য।
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+1 REPLY
+Hossian Rabbi
+Hossian Rabbi
+1 year ago
+অসাধারন ভাবে বুঝিয়েছেন। আশাকরছি, আগে শুধু Node js এর Concept Clear করে দিবেন এবং তার পরে Node js এর Femworks দিয়ে tutorial দিবেন , যাতে করে আমরা Node js এর Basic বিষয় গুলো বুঝতে পারি।
+
+2
+
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+1 REPLY
+Learn with Sumit - LWS - Bangladesh
+Learn with Sumit - LWS - Bangladesh
+1 year ago
+setai korchi. video ta pura dekhle dekhben last e next ki korbo setao bolechi
+
+1
+
+
+Reply
+
+Shuvo
+Shuvo
+11 months ago
+I really understood stream & buffer today. You are awesome vaiya.
+
+1
+
+
+Reply
+
+Trishan Saha
+Trishan Saha
+1 year ago
+It seems a lot easier now than it was the first time ❤  ❤ ❤ ❤ ❤
+
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+Nahid Emdad
+Nahid Emdad
+1 year ago
+আসাধারন টিউটোরিয়াল ।  আশা করি নিয়মিত টিউটোরিয়াল পাবো।
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+Fahim Shahriar
+Fahim Shahriar
+1 year ago
+A big Thank to you Sumit vaii...  kono kichu bojhar por je self-satisfaction paoa jay seta relate korchii.. take love vaii...❤️
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+IT INSTITUTE
+IT INSTITUTE
+1 year ago
+ভাইরে ভাই আপনিতো বুঝানোর জন্য অনেক চেষ্টা করেন, অনেক অনেক ভালোবাসা রইল ভাই, 
+
+বাংলায় সবচেয়ে শ্রেষ্ঠ প্রোগ্রামিং  টিউটোরিয়াল চ্যানেল
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+1 REPLY
+Mostak Ali
+Mostak Ali
+1 year ago
+সাথে আছি ভাইয়া,আশা করি নিয়মিত টিউটোরিয়াল পাবো।অনেক সুন্দর ভাবে   বুঝতে পারছি।
+
+3
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+3 REPLIES
+MD.M Rahman
+MD.M Rahman
+1 year ago
+You are Awesome!!!thank a lot to start this channel it’s so helpful.
+
+4
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+2 REPLIES
+A n o n y m o u s
+A n o n y m o u s
+3 months ago
+13:54 why you have used '___dirname' here and add the file name later?
+In a previous video you showed that we can use '__filename' or something like that which give us the full directory with current file name. 
+
+Any reason to avoid that and using __dirname ???
+
+
+
+Reply
+
+Arfin Chowdhury Arif
+Arfin Chowdhury Arif
+1 year ago
+ভাই আপনি কিন্তু ডাইহার্ট চেষ্টা  করেন মানুষকে বুঝানোর জন্য । অসংখ্য ধন্যবাদ এত সুন্দর করে বুঝানোর জন্য । দোয়া রইল যাতে ভিডিও র জন্য সময় বের করতে পারেন। শুভ হোক আপনার যাত্রা।
+
+1
+
+Learn with Sumit - LWS - Bangladesh
+
+Reply
+
+
+Learn with Sumit - LWS - Bangladesh
+·
+
+1 REPLY
+Azizul Hakim
+Azizul Hakim
+1 month ago
+অনেক ভালো টিউটোরিয়াল,  আপনার প্রতি ভালোবাস থাকলো অনেক, চিরজীবন সুস্থ থাকুন।
+
+
+
+Reply
+
+Abdur Rahim
+1 year ago
+ভালোবাসা ও শুভেচ্ছা রইল দাদা ❤️❤️
+
+2
+
+
+
+Reply
+
+Mohammad Mehrab Hossain
+1 year ago
+দাদা অসংখ্য ধন্যবাদ।আপনার বোঝানোর স্কিল।আগুউউউউন।ভাই একটা কোর্স আকারে জাস্ট নোড এর A-Z সব নিয়ে আসেন।একটা রিকুয়েস্ট থাকবে দাদা
+
+1
+
+
+Reply
+
+
+·
+
+1 REPLY
+Learn with Mehady
+6 months ago
+ভাইয়া নতুন হিসেবে অনেক বেশি কষ্ট হচ্ছে । প্রথম কি সবার জন্য বিষয় গুলো অনেক বেশি কঠিন মনে হয় ?
+
+
+
+Reply
+
+
+
+
+GitKon 2022
+Ad
+gitkon.com
+
+Sign up
+
+
+26:41
+NOW PLAYING
+#7 - একটি Node.js এপ্লিকেশনের ব্যবচ্ছেদ - Understanding NodeJS | Node.js Tutorial Bangla
+Learn with Sumit - LWS - Bangladesh
+15K views
+1 year ago
+
+
+35
+NOW PLAYING
+Node.js Tutorial Bangla | Express.js Tutorial Bangla Series for Beginners
+Learn with Sumit - LWS - Bangladesh
+
+10:34
+NOW PLAYING
+Github Task - Collaboration: be up to date
+Danitronics
+171 views
+1 day ago
+New
+
+
+21:58
+NOW PLAYING
+I built the same app 10 times // Which JS Framework is best?
+Fireship
+1.5M views
+1 year ago
+
+
+NOW PLAYING
+Mix – Learn with Sumit - LWS - Bangladesh
+More from this channel for you
+
+4:50
+NOW PLAYING
+Bhule Jeo - Lofi | ভুলে যেও | Generation আমি | Amrita | Arindom | Prasen | Veerdo | SVF Music
+SVF Music
+66K views
+10 months ago
+
+
+37:45
+NOW PLAYING
+I Challenged The CSS King To A CSS Battle
+Web Dev Simplified
+1.2M views
+1 year ago
+
+
+13:15
+NOW PLAYING
+MongoDB bangla tutorial 1 : Introduction to MongoDB
+Anisul Islam
+11K views
+9 months ago
+
+
+12:29
+NOW PLAYING
+৪টি ধাপে যেভাবে কোন বিষয়ে দক্ষ হবেন (math, programming, or any skill)
+Seeam Shahid Noor
+62K views
+2 weeks ago
+
+
+16:20
+NOW PLAYING
+Node.js Ultimate Beginner’s Guide in 7 Easy Steps
+Fireship
+895K views
+2 years ago
+
+
+17:15
+NOW PLAYING
+২০২২ সালের মধ্যে ওয়েব ডেভেলপার হওয়ার রোডম্যাপ || Web Development Course with Jhankar Mahbub
+Jhankar Mahbub
+234K views
+9 months ago
+
+
+32:35
+NOW PLAYING
+JavaScript Higher Order Functions are easy - JavaScript Bangla ( বাংলা ) Tutorial
+Learn with Sumit - LWS - Bangladesh
+9.2K views
+2 years ago
+
+
+37:47
+NOW PLAYING
+#4 Node.js Global Object & Module System - Node.js Tutorial Bangla | Bangla Node js Tutorial
+Learn with Sumit - LWS - Bangladesh
+31K views
+1 year ago
+
+
+13:23
+NOW PLAYING
+Deno নামক Dinosaur কি Node.js কে খেয়ে ফেলবে?
+Learn with Sumit - LWS - Bangladesh
+9K views
+1 year ago
+
+
+12:03
+NOW PLAYING
+Complete outline to become a junior web developer Jhankar Mahbub
+Jhankar Mahbub
+224K views
+1 year ago
+
+
+19:31
+NOW PLAYING
+JSON Web Token - Bangla ( বাংলা ) Tutorial
+Learn with Sumit - LWS - Bangladesh
+16K views
+1 year ago
+
+
+1:01:15
+NOW PLAYING
+Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial
+Learn with Sumit - LWS - Bangladesh
+159K views
+1 year ago
+
+
+51:27
+NOW PLAYING
+Execution Context - How JavaScript runs your code - JavaScript Bangla ( বাংলা ) Tutorial
+Learn with Sumit - LWS - Bangladesh
+19K views
+2 years ago
+
+
+1:18:16
+NOW PLAYING
+Node.js Tutorial for Beginners: Learn Node in 1 Hour
+Programming with Mosh
+4.5M views
+4 years ago
+
+
+14:48
+NOW PLAYING
+
+Learn Express Middlewa
